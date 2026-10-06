@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# Testes e cobertura
+TestResults/
+coverage*/
+
+# Segredos e ambiente
+.env
+*.env
+appsettings.*.local.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
